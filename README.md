@@ -12,11 +12,13 @@ The project is composed of 5 scenes, which are:
 - GameOverScene (Self-explanatory).
 - VictoryScene (The scene with the final message and the credits, when the player defeats the final boss).
 
-I believe that the game is complex and distinct of other games implemented in the course because:
-- We never implemented a 3D game with a third person perspective.
-- We never implemented a 3D combat system.
+Features:
+- 3D game with a third person perspective.
+- 3D combat system.
 - The characteristics of the ThirdPersonController have been adjusted and modified to adapt it to the gameplay.
 - The enemies have a simple AI, but sufficient for its purpose. They can follow the player around even when there's not a straight path between them or when climbing the mountain.
 - The game could easily be enlarged, with more maps and more kinds of enemies.
+
+Gameplay video: https://www.youtube.com/watch?v=tJYYKtWxNfM
 
 
