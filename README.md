@@ -1,4 +1,7 @@
 # Invasion of the Shadows
+
+Gameplay video: https://www.youtube.com/watch?v=tJYYKtWxNfM
+
 Invasion of the Shadows is a short 3D top-down adventure game. Its main objective is to defeat the Shadows that have invaded the Farm while looking for the Big Shadow, who is the biggest and strongest Shadow.
 In order to find the Big Shadow, the player must climb the Mountain that is placed at the North of the Farm.
 
@@ -20,6 +23,6 @@ Features:
 - The enemies have a simple AI, but sufficient for its purpose. They can follow the player around even when there's not a straight path between them or when climbing the mountain.
 - The game could easily be enlarged, with more maps and more kinds of enemies.
 
-Gameplay video: https://www.youtube.com/watch?v=tJYYKtWxNfM
+
 
 
